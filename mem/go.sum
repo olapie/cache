@@ -1,0 +1,6 @@
+code.olapie.com/cache v1.0.0 h1:6JZBuiwXKB20nv6AfCV49Zon9FVdxpGQh9AbD3FxcLc=
+code.olapie.com/cache v1.0.0/go.mod h1:5MrrjgPWwZ2z/OFixDUGx1n9hZux+/ZIrGAyBgoYoJQ=
+code.olapie.com/errors v1.0.0 h1:I0L2lrlSHEXu4phsogawaXlkN2s8tu9fKKGMZfiitT8=
+code.olapie.com/errors v1.0.0/go.mod h1:wcBnUWo6vwmidvUbM1IbwLWB3vIo9nqT9AXx2cKq4+0=
+github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
+github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
